@@ -11,6 +11,7 @@ import android.widget.Button;
 
 public class forcedownload extends Activity {
     Button update;
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
